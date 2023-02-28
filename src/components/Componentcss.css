@@ -1,0 +1,25 @@
+.content{
+background-color: aquamarine;
+display: flex;
+flex-direction: row;
+}
+
+.update-btn{
+
+    background-color: black;
+    color: antiquewhite;
+    width: 60px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+
+.delete-btn{
+    background-color: black;
+    color: antiquewhite;
+    width: 60px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
